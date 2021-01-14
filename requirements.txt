@@ -1,0 +1,10 @@
+requests
+sqlalchemy
+flask
+flask_sqlalchemy
+flask_cors
+flask-marshmallow
+marshmallow-sqlalchemy
+pytest
+pylint
+black
